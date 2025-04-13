@@ -1,0 +1,50 @@
+msgid "Visitors"
+msgstr ""
+
+msgid "Small Wordpress plugin that records and displays visits to your website."
+msgstr ""
+
+msgid "Start"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "Small utility to register visitors to your Wordpress blog"
+msgstr ""
+
+msgid "Developed by Domingo Ruiz Arroyo"
+msgstr ""
+
+msgid "Today"
+msgstr ""
+
+msgid "Yesterday"
+msgstr ""
+
+msgid "This Week"
+msgstr ""
+
+msgid "This Month"
+msgstr ""
+
+msgid "This Year"
+msgstr ""
+
+msgid "Users"
+msgstr ""
+
+msgid "Visits"
+msgstr ""
+
+msgid "Date and Time"
+msgstr ""
+
+msgid "URL"
+msgstr ""
+
+msgid "IP"
+msgstr ""
+
+msgid "Browser"
+msgstr ""

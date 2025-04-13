@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Visitors\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-02 10:31+0000\n"
+"PO-Revision-Date: 2020-04-02 10:31+0000\n"
+"Last-Translator: \n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.2; wp-5.4"
+
+msgid "Visitors"
+msgstr "Visitantes"
+
+msgid ""
+"Small Wordpress plugin that records and displays visits to your website."
+msgstr ""
+"Small Wordpress plugin that records and displays visits to your website."
+
+msgid "Start"
+msgstr "Inicio"
+
+msgid "About"
+msgstr "About"
+
+msgid "Small utility to register visitors to your Wordpress blog"
+msgstr "Pequeña utilidad para registrar visitantes en tu blog de Wordpress"
+
+msgid "Developed by Domingo Ruiz Arroyo"
+msgstr "Desarrollado por Domingo Ruiz Arroyo"
+
+msgid "Today"
+msgstr "Hoy"
+
+msgid "Yesterday"
+msgstr "Ayer"
+
+msgid "This Week"
+msgstr "Esta Semana"
+
+msgid "This Month"
+msgstr "Este Mes"
+
+msgid "This Year"
+msgstr "Este Año"
+
+msgid "Users"
+msgstr "Usuarios"
+
+msgid "Visits"
+msgstr "Visitas"
+
+msgid "Date and Time"
+msgstr "Fecha y Hora"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "Browser"
+msgstr "Navegador"
